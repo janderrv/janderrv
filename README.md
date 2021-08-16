@@ -1,5 +1,3 @@
-## Olá! Sou o Jander👋
-
 - 👨‍🎓 Estudante de Engenharia de Software
 - 🔭 Trabalho com back-end
 - 🌱 Estou me aprofundando em Node.js
