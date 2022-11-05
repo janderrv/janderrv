@@ -1,6 +1,5 @@
 - 👨‍🎓 Estudante de Engenharia de Software
 - 🔭 Trabalho com back-end
-- 🌱 Estou me aprofundando em Node.js
 
  <div>
   <a href="https://github.com/janderrv">
